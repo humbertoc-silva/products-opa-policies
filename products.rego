@@ -1,3 +1,3 @@
 package products
 
-default allow = false
+default allow = true
